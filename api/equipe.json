@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nom": "Équipe A",
+    "ville": "Casablanca"
+  },
+  {
+    "id": 2,
+    "nom": "Équipe B",
+    "ville": "Tanger"
+  },
+  {
+    "id": 3,
+    "nom": "Équipe C",
+    "ville": "Khribga"
+  },
+  {
+    "id": 4,
+    "nom": "Équipe D",
+    "ville": "Sale"
+  },
+  {
+    "id": 5,
+    "nom": "Équipe E",
+    "ville": "Azemmour"
+  },
+  {
+    "id": 6,
+    "nom": "Équipe F",
+    "ville": "Asfi"
+  },
+  {
+    "id": 7,
+    "nom": "Équipe G",
+    "ville": "Rabat"
+  }
+]
+  

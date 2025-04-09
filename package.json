@@ -1,0 +1,12 @@
+{
+  "name": "tp-node-api",
+  "version": "1.0.0",
+  "description": "API simple pour retourner des équipes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
