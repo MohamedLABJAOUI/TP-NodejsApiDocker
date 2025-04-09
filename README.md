@@ -1,4 +1,3 @@
-Parfait ! Voici un exemple de fichier `README.md` que tu peux mettre à la racine de ton projet. Il explique comment le projet fonctionne, comment l’installer et l’exécuter :
 
 ---
 
