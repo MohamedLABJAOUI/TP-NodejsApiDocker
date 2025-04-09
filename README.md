@@ -14,24 +14,6 @@ Ce projet est une petite API Node.js utilisant Express. Il permet :
 
 ---
 
-## 🔧 Structure du projet
-
-```
-tp-node-api/
-│
-├── api/
-│   └── equipe.json         # Données des équipes
-│
-├── public/
-│   └── style.css           # Fichier CSS
-│
-├── index.js                # Code principal Node.js (serveur Express)
-├── package.json            # Dépendances et scripts
-└── README.md               # Ce fichier
-```
-
----
-
 ## 🚀 Lancer le projet
 
 ### Étapes :
@@ -74,7 +56,7 @@ tp-node-api/
 
 ---
 
-## 💡 À venir ?
+## 💡 À venir 
 - Supprimer une équipe
 - Modifier une équipe
 - Sauvegarde dans base de données
@@ -83,5 +65,5 @@ tp-node-api/
 
 ## 👨‍💻 Auteur
 
-Projet réalisé par **[Mohamed LABJAOUI]** – avril 2025
+Projet réalisé par **Mohamed LABJAOUI** – avril 2025
 
